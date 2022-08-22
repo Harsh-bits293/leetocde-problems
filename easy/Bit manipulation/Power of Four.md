@@ -60,5 +60,5 @@ bool isPowerOfFour(int num) {
 ```
 Similar questions-:
 1. Power of 2
-2. Power of 3(approaches-[link](https://leetcode.com/problems/power-of-three/discuss/1178701/Power-Of-Three-or-Loops-Recursive-Direct-Approach-or-Multiple-Solutions-Explained-w-Clean-Code){:target="\_blank"})
+2. Power of 3(approaches-[link](https://leetcode.com/problems/power-of-three/discuss/1178701/Power-Of-Three-or-Loops-Recursive-Direct-Approach-or-Multiple-Solutions-Explained-w-Clean-Code))
  
