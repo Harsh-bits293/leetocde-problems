@@ -16,8 +16,6 @@
         return false;
     }
 ```
-<br>
-
 ## Math based approach using log base 4
 
 num= 4^a
